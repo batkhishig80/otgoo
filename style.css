@@ -1,0 +1,39 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+  overflow: hidden;
+}
+#page-1 {
+  background: url("london-city-cityscape-city-lights-dusk-purple-sky-horizon-2880x1800-4316.jpg")
+    no-repeat center center/cover;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 4rem;
+}
+.page a {
+  padding: 8px 20px;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+}
+#page-2 {
+  background: url("pngtree-statue-of-liberty-hd-wallpapers-4k-picture-image_2773296.jpg")
+    no-repeat center center/cover;
+}
+#page-3 {
+  background: url("maxresdefault.jpg") no-repeat center center/cover;
+}
+#page-4 {
+  background: url("Malaysia-2106x1406.jpg") no-repeat center center/cover;
+}
+#page-5 {
+  background: url("ancient-egypt-zugmfwli3aq75h46.jpg") no-repeat center
+    center/cover;
+}
